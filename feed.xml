@@ -3,8 +3,8 @@
   <channel>
     <title></title>
     <description></description>
-    <link>http://jackal.com</link>
-    <atom:link href="http://jackal.comhttp://jackal.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://juanmanpr.github.io/</link>
+    <atom:link href="https://juanmanpr.github.io/https://juanmanpr.github.io//feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Another post</title>
@@ -70,8 +70,8 @@ Parentis summo quem, ambit pectore sit nigram faciem &lt;a href=&quot;http://pos
 prosit&lt;/a&gt; certaminis unam stagnare!&lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Jul 2016 00:00:00 +0200</pubDate>
-        <link>http://jackal.com/2016/second/</link>
-        <guid isPermaLink="true">http://jackal.com/2016/second/</guid>
+        <link>https://juanmanpr.github.io//2016/second/</link>
+        <guid isPermaLink="true">https://juanmanpr.github.io//2016/second/</guid>
       </item>
     
       <item>
@@ -128,8 +128,8 @@ sacerdos locus gens quem. Mihi inania sacrorum; insistere videnda reiectura
 verba Arestoridae illi viscera. Incertam natae creatis suis.&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Jun 2016 00:00:00 +0200</pubDate>
-        <link>http://jackal.com/2016/first/</link>
-        <guid isPermaLink="true">http://jackal.com/2016/first/</guid>
+        <link>https://juanmanpr.github.io//2016/first/</link>
+        <guid isPermaLink="true">https://juanmanpr.github.io//2016/first/</guid>
       </item>
     
   </channel>
